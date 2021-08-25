@@ -97,6 +97,4 @@ document.querySelector(".grid-container").innerHTML =
 <h3>${teacher5.department}</h3>
 <address>${teacher5.mail}<br> ${teacher5.phone}</address>
 </div>
-
-
 `
